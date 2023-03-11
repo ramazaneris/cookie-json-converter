@@ -1,0 +1,20 @@
+{
+  "name": "cookie-json-converter",
+  "version": "1.0.0",
+  "description": "Simple cookie to json converter",
+  "main": "./module/index",
+  "types":"./module/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}
