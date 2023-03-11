@@ -3,13 +3,23 @@
   "version": "1.0.0",
   "description": "Simple cookie to json converter",
   "main": "./module/index",
-  "types":"./module/index",
+  "types": "./module/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
+  },
+  "keywords": [
+    "express cookie",
+    "express cookie parser",
+    "cookie convert to json",
+    "express cookie converter",
+    "cookie converter"
+  ],
+  "author": "Ramco",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
